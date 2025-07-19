@@ -3,7 +3,7 @@
 This project is part of the final assignment for the **IBM JavaScript Programming Essentials** course on [Coursera](https://www.coursera.org/learn/javascript-programming-essentials/). It’s a simple travel recommendation website built using **HTML**, **CSS**, and **JavaScript**.
 
 🔗 **Live Site:** [https://yourusername.github.io/travelRecommendation](https://yourusername.github.io/travelRecommendation)  
-💻 **GitHub Repo:** [https://github.com/yourusername/travelRecommendation](https://github.com/yourusername/travelRecommendation)
+💻 **GitHub Repo:** [https://github.com/faaizmahmood/travel-app-project-IBM](https://github.com/faaizmahmood/travel-app-project-IBM)
 
 ---
 
